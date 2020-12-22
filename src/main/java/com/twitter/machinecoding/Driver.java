@@ -23,7 +23,6 @@ public class Driver {
                 TweetManager tweetManager = new TweetManager();
                 Manager manager = new Manager();
 
-
                 System.out.println("Enter your choice\n[1].Sign Up !!" +
                         "\n[2].Login \n[3].Exit");
                 Integer ch = scanner.nextInt();
